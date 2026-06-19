@@ -18,6 +18,9 @@ This project is a Python-based Student Data Analysis System
 -Matplotlib
 -Statistics module
 
+## Project Explanation Video link
+- link https://drive.google.com/file/d/1HZqzvhToo5-syLW5NTUtrUC3UXxIR8Ld/view?usp=sharing
+
 ## How to Run
 python main.py
 
